@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.11](https://www.github.com/googleapis/java-accessapproval/compare/v1.0.10...v1.0.11) (2021-02-16)
+
+
+### Documentation
+
+* generate sample code in the Java microgenerator ([#324](https://www.github.com/googleapis/java-accessapproval/issues/324)) ([c6549ef](https://www.github.com/googleapis/java-accessapproval/commit/c6549ef44581613efa5ef2f6e965bf8faea741f4))
+
 ### [1.0.10](https://www.github.com/googleapis/java-accessapproval/compare/v1.0.9...v1.0.10) (2021-01-14)
 
 
